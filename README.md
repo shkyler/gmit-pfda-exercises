@@ -34,4 +34,4 @@ jupyter notebook
 * Jupyter Notebooks should open in you default web browser
 * Open the `numpyrandom.ipnb` notebook
 
-There is a good tutorial on Jupyter Notebooks available ![Jupyter Tutorial](https://www.dataquest.io/blog/jupyter-notebook-tutorial/)here
+There is a good tutorial on Jupyter Notebooks available [here](https://www.dataquest.io/blog/jupyter-notebook-tutorial/)
