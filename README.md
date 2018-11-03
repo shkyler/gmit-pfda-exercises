@@ -1,4 +1,4 @@
-## GMIT HDIP in Data Analytics
+## GMIT H.DIP in Data Analytics
 ### Assignment for Programming for Data Analysis Module
 
 This repository contains all of the files pertaining to my assignment submission for the Programming for Data Analysis module of the GMIT HDIP in Data Analysis program. The main body of work is in the `numpyrandom.ipynb` Jupyter notebook file. This README.md file is a guide to set up and run the notebook.
