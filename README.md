@@ -1,12 +1,12 @@
 ## GMIT H.DIP in Data Analytics
 ### Assignment for Programming for Data Analysis Module
 
-This repository contains all of the files pertaining to my assignment submission for the Programming for Data Analysis module of the GMIT HDIP in Data Analysis program. The main body of work is in the `numpyrandom.ipynb` Jupyter notebook file. This README.md file is a guide to set up and run the notebook.
+This repository contains all of the files pertaining to my assignment submission for the Programming for Data Analysis module of the GMIT H.DIP in Data Analysis program. The main body of work is in the `numpyrandom.ipynb` Jupyter notebook file. This README.md file is a guide to set up and run the notebook.
 
 ### Repository contents
 
 The repository contains:
-* numpyrandom.ipynb - the notebook with all the details
+* numpyrandom.ipynb - the notebook with all the project detail
 * this README.md file
 * an 'img' folder containing images for the notebook
 
@@ -27,11 +27,11 @@ The software can be installed and run on a machine as follows:
 ```
 git clone https://github.com/shkyler/gmit-pfda-exercises.git
 ```
-* Run Jupyter notebook from the repository with the following command
+* Run Jupyter Notebooks from the repository with the following command:
 ```
 jupyter notebook
 ```
-* Jupyter Notebooks should open in you default web browser
+* Jupyter Notebooks should open in your default web browser
 * Open the `numpyrandom.ipnb` notebook
 
 There is a good tutorial on Jupyter Notebooks available [here](https://www.dataquest.io/blog/jupyter-notebook-tutorial/)
